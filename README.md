@@ -2,5 +2,5 @@
 Requirements:
 
 install flask <br>
-istall flask-login
+istall flask-login <br>
 install flask-sqlalchemy
