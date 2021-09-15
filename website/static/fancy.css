@@ -1,0 +1,15 @@
+#I wanted to make the Sign In page fancier but it did not quite look right, so I will continue with this in Tech Basis II
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cover {
+    background: #222 url('https://unsplash.it/1920/1080/?random') center no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+}
